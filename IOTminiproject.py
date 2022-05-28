@@ -2,7 +2,6 @@ import RPi.GPIO as GPIO
 import time
 import urllib2
 import json
-import time
 import Adafruit_DHT
 from sklearn import linear_model
 import matplotlib.pyplot as plt
